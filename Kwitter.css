@@ -1,0 +1,28 @@
+body
+{
+background-color: rgb(141, 141, 255);
+}
+h1
+{
+    color : white;
+    
+    font-size: xx-large;
+}
+h2
+{
+    color : rgb(234, 241, 245);
+    
+    font-size: x-large;
+}
+#login_button
+{
+    background-color: rgb(249, 182, 211);
+    color : rgb(255, 255, 255);
+    font-size: larger;
+}
+#username
+{
+    background-color:rgb(249, 182, 211);
+    color : white;
+    font-size: larger;
+}
